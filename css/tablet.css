@@ -1,0 +1,20 @@
+.contain--rossol{
+    display: flex;
+    width: 930px;
+    justify-content: center;
+    gap: 204px;
+    overflow-x: unset;
+}
+
+.main__product--detail{
+     display: flex;
+     flex-wrap: wrap;
+     width: auto;
+     margin: 0 auto;
+     justify-content: center;
+}
+
+.plans__container--slider{
+    display: flex;
+    justify-content: center;
+}
